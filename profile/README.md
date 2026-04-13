@@ -37,6 +37,6 @@ If you appreciate our work and wish to support the continuation and expansion of
 
 * **USDT**: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
 * **BUSD**: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
-* **BTC**: 184FDZ1qV2KFzEaNqMefw8UssG8Z57FA6F
+* **BTC**: 15qyZpi6HjYyVhKKBsCbZSXU4bLdVJ8Phe
 * **ETH**: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
 * **SOL**: Gt3bDczPcJvfBeg9TTBrBJGSHLJVkvnSSTov8W3QMpQf
